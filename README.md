@@ -7,12 +7,14 @@ AlexnNet and SqueezeNet is slightly changed to fit in CIFAR10 input image size (
 In this repo, SqueezeNet has less Fire layers than original SqueezeNet for comparing AlexNet. <br/>
 * * *
 #### AlexNet 
-Number of parameters: 22,559,626 <br/>
-Test Accuracy: 79.28% <br/>
+Number of parameters: ***22,559,626*** <br/>
+Test Accuracy: ***79.28%*** <br/>
 
 #### SqueezeNet 
-Number of parameters: 378,914 <br/>
-Test Accuracy: 80.29% <br/>
+Number of parameters: ***378,914*** <br/>
+Test Accuracy: ***80.29%*** <br/>
+
+Number of params reduction: ***~59x***
 * * * 
 
 
